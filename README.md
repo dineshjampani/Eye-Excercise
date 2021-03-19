@@ -1,0 +1,2 @@
+# Eye-Excercise
+The Eye Excercise is part of MIT Full Stack MERN Development Certificate. It uses the DOM to duplicate two eyes onto the webpage. Each of the eye will move based on where the mouse is moving. In sync, the eye only moves to the movement of the mouse to create an image of the eyes tracking the mouse. It is one of the most interesting projects that combines a lot of concepts to display this animation.
